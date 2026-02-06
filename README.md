@@ -1,1 +1,1 @@
-# projeto-de-subloca-o-de-salas
+# sistema-agendamento-salas
